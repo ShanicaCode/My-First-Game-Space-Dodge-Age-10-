@@ -12,5 +12,5 @@ Now I'm bringing it back and evolving it with AI for the xAI Grokathon: an **Ada
 1. Install Pygame Zero (one-time):
    ```bash
    pip install pgzero
-
-   pgzrun space_game.py 
+   
+pgzrun space_game.py
