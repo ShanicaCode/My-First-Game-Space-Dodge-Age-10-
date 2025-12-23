@@ -1,7 +1,8 @@
 # My First Game: Space Dodge (Age 10)
 
-This is the tiny space game I built **all by myself** when I was **10 years old** using **Pygame Zero**.  
-You control a spaceship (cyan rectangle) and dodge falling asteroids (gray circles). If you get hit—BOOM! Game over.
+**Language:** Python with Pygame Zero
+
+You control a spaceship (cyan rectangle) and dodge falling asteroids (gray circles). If you get hit—BOOM! Game over. 
 
 It started as a super simple dodger, and I had plans to add more (like eggs!), but this is the original core I coded back then.
 
